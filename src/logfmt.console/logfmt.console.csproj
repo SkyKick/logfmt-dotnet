@@ -3,6 +3,18 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <Nullable>enable</Nullable>
+    <Authors>Aida Crone</Authors>
+    <Company>SkyKick</Company>
+    <Description>logfmt style logging for .net console apps</Description>
+    <PackageProjectUrl>https://github.com/SkyKick/logfmt-dotnet</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/SkyKick/logfmt-dotnet</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>logfmt, SkyKick</PackageTags>
+    <Copyright>Copyright (c) SkyKick 2021</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Product>SkyKick.Extensions.Logging.Console.Logfmt</Product>
+    <PackageId>SkyKick.Extensions.Logging.Console.Logfmt</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
