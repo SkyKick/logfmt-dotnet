@@ -8,7 +8,7 @@ using Microsoft.Extensions.Logging.Abstractions;
 using Microsoft.Extensions.Logging.Console;
 using Microsoft.Extensions.Options;
 
-namespace SkyKick.Extensions.Logging.Console
+namespace SkyKick.Extensions.Logging.Console.Logfmt
 {
 
     using static AnsiColorCodeHelper;

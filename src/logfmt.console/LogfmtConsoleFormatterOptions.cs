@@ -1,8 +1,8 @@
+using System.Collections.Generic;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Logging.Console;
-using System.Collections.Generic;
 
-namespace SkyKick.Extensions.Logging.Console
+namespace SkyKick.Extensions.Logging.Console.Logfmt
 {
     public class LogfmtConsoleFormatterOptions : ConsoleFormatterOptions
     {

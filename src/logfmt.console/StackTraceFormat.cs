@@ -1,4 +1,4 @@
-namespace SkyKick.Extensions.Logging.Console
+namespace SkyKick.Extensions.Logging.Console.Logfmt
 {
     public enum StackTraceFormat
     {

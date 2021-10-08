@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SkyKick.Extensions.Logging.Console
+namespace SkyKick.Extensions.Logging.Console.Logfmt
 {
     internal sealed class AnsiColorCodeHelper
     {
